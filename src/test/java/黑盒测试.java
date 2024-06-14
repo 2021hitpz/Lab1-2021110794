@@ -87,12 +87,9 @@ public class ºÚºÐ²âÊÔ {
     @Test
     public void test11() {
         word1="@the";
-        word2="once";
+        word2="@#£¤£¤once";
         BridgeWords = main.queryBridgeWords(main.getTuPojo(),word1,word2);
     }
-
-
-
 
 
 
